@@ -267,7 +267,7 @@ Check out our other projects on GitHub!
 **💬 Support**
 
 · GitHub Issues: For bugs and feature requests  
-· Discord Server: Join our community  
+· Discord Server: [Join](https://discord.gg/wyzZETRAmR) our community  
 · Documentation: Read the docs
 
 ---
