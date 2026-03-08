@@ -120,7 +120,7 @@ All commands are slash commands (/) and require administrator permissions unless
 
 **Welcome Configuration**
 
-Command Description Parameters
+Command Description Parameters  
 /setwelcome Set welcome channel channel
 /setwelcomemsg Set welcome message message
 /setwelcomedm Set DM welcome message (optional)
@@ -129,7 +129,7 @@ Command Description Parameters
 
 **Auto-Role Management**
 
-Command Description Parameters
+Command Description Parameters  
 /setautorole Set primary auto-role role
 /clearautorole Remove primary auto-role None
 /addextrarole Add extra auto-role role
@@ -138,19 +138,19 @@ Command Description Parameters
 
 **Reaction Roles**
 
-Command Description Parameters
+Command Description Parameters  
 /addreactionrole Add role to dropdown role, label
 /removereactionrole Remove role label
 /sendreactionroles Send panel title, description
 
 **Verification**
 
-Command Description Parameters
+Command Description Parameters  
 /setverification Setup verification role, channel
 
 **Milestones**
 
-Command Description Parameters
+Command Description Parameters  
 /addmilestone Add milestone count
 /removemilestone Remove milestone count
 
