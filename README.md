@@ -156,7 +156,7 @@ Command Description Parameters
 
 **Utilities**
 
-Command Description
+Command Description  
 /showconfig View current configuration
 /testwelcome Preview welcome message
 /testleave Preview leave message
