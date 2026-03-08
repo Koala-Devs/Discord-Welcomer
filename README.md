@@ -118,7 +118,7 @@ The bot uses a JSON-based configuration system (guild_config.json). Each server'
 
 All commands are slash commands (/) and require administrator permissions unless noted.
 
-Welcome Configuration
+**Welcome Configuration**
 
 Command Description Parameters
 /setwelcome Set welcome channel channel
@@ -127,7 +127,7 @@ Command Description Parameters
 /setleave Set leave channel channel
 /setleavemsg Set leave message message
 
-Auto-Role Management
+**Auto-Role Management**
 
 Command Description Parameters
 /setautorole Set primary auto-role role
@@ -136,7 +136,7 @@ Command Description Parameters
 /removeextrarole Remove extra auto-role role
 /listautoroles List all auto-roles None
 
-Reaction Roles
+**Reaction Roles**
 
 Command Description Parameters
 /addreactionrole Add role to dropdown role, label
@@ -226,21 +226,21 @@ We love contributions from the community! Here's how you can help:
 
 **Development Guidelines**
 
-· Follow PEP 8 style guidelines
-· Add docstrings for new functions
-· Test your changes thoroughly
-· Update README if adding new features
+· Follow PEP 8 style guidelines  
+· Add docstrings for new functions  
+· Test your changes thoroughly  
+· Update README if adding new features  
 · Keep slash command structure consistent
 
 **Ideas for Contributions**
 
-· Add more message formatting options
-· Implement logging system
-· Add database support (PostgreSQL/MySQL)
-· Create web dashboard
-· Add more interactive components
-· Translation support
-· Custom embed color configuration
+· Add more message formatting options  
+· Implement logging system  
+· Add database support (PostgreSQL/MySQL)  
+· Create web dashboard  
+· Add more interactive components  
+· Translation support  
+· Custom embed color configuration  
 
 ---
 
@@ -254,8 +254,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 Koala Devs is a team of passionate developers creating open-source tools for the Discord community. We believe in:
 
-· Quality code that's well-documented and tested
-· Community-driven development with user feedback
+· Quality code that's well-documented and tested  
+· Community-driven development with user feedback  
 · Open collaboration welcoming contributions from everyone
 
 Check out our other projects on GitHub!
@@ -264,8 +264,8 @@ Check out our other projects on GitHub!
 
 **💬 Support**
 
-· GitHub Issues: For bugs and feature requests
-· Discord Server: Join our community
+· GitHub Issues: For bugs and feature requests  
+· Discord Server: Join our community  
 · Documentation: Read the docs
 
 ---
