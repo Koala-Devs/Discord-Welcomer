@@ -1,3 +1,5 @@
+[![Python Quality Check](https://github.com/Koala-Devs/Discord-Welcomer/actions/workflows/python-test.yml/badge.svg)](https://github.com/Koala-Devs/Discord-Welcomer/actions)
+
 # Koala Welcome Bot 🐨
 
 <div align="center">
