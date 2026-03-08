@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  A powerful, feature-rich Discord bot for managing server welcomes, auto-roles, verification, and reaction roles. Built by <a href="https://github.com/KoalaDevs">Koala Devs</a> ❤️
+  A powerful, feature-rich Discord bot for managing server welcomes, auto-roles, verification, and reaction roles. Built by <a href="https://github.com/Koala-Devs">Koala Devs</a> ❤️
 </p>
 
 ---
@@ -62,7 +62,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/KoalaDevs/welcome-bot.git
+git clone https://github.com/Koala-Devs/Discord-Welcomer
 cd welcome-bot
 ```
 
@@ -246,7 +246,7 @@ We love contributions from the community! Here's how you can help:
 
 **📄 License**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
